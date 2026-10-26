@@ -1,0 +1,71 @@
+{
+  "seS": {
+    "file": "./plans/seS.pdf",
+    "pages": [
+      "./plans/seS-1.webp",
+      "./plans/seS-2.webp",
+      "./plans/seS-3.webp",
+      "./plans/seS-4.webp"
+    ]
+  },
+  "seT": {
+    "file": "./plans/seT.pdf",
+    "pages": [
+      "./plans/seT-1.webp"
+    ]
+  },
+  "aiS": {
+    "file": "./plans/aiS.pdf",
+    "pages": [
+      "./plans/aiS-1.webp",
+      "./plans/aiS-2.webp",
+      "./plans/aiS-3.webp",
+      "./plans/aiS-4.webp"
+    ]
+  },
+  "aiT": {
+    "file": "./plans/aiT.pdf",
+    "pages": [
+      "./plans/aiT-1.webp"
+    ]
+  },
+  "cysS": {
+    "file": "./plans/cysS.pdf",
+    "pages": [
+      "./plans/cysS-1.webp",
+      "./plans/cysS-2.webp",
+      "./plans/cysS-3.webp",
+      "./plans/cysS-4.webp"
+    ]
+  },
+  "csS": {
+    "file": "./plans/csS.pdf",
+    "pages": [
+      "./plans/csS-1.webp",
+      "./plans/csS-2.webp",
+      "./plans/csS-3.webp",
+      "./plans/csS-4.webp"
+    ]
+  },
+  "csT": {
+    "file": "./plans/csT.pdf",
+    "pages": [
+      "./plans/csT-1.webp"
+    ]
+  },
+  "mathS": {
+    "file": "./plans/mathS.pdf",
+    "pages": [
+      "./plans/mathS-1.webp",
+      "./plans/mathS-2.webp",
+      "./plans/mathS-3.webp",
+      "./plans/mathS-4.webp"
+    ]
+  },
+  "cysT": {
+    "file": "./plans/cysT.jpeg",
+    "pages": [
+      "./plans/cysT.jpeg"
+    ]
+  }
+}
