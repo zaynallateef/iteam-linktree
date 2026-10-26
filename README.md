@@ -1,3 +1,3 @@
 # iTeam
 
-### website as linktree and guide for iteam club for ZUJ
+### website as linktree and guide for iteam club of ZUJ
